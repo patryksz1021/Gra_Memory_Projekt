@@ -1,0 +1,20 @@
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\bin\Debug\Gra_memory.exe.config
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\bin\Debug\Gra_memory.exe
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\bin\Debug\Gra_memory.pdb
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.csprojAssemblyReference.cache
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.Form1.resources
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.Properties.Resources.resources
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.csproj.GenerateResource.cache
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.csproj.CoreCompileInputs.cache
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.exe
+C:\Users\ObilanCenobi\Desktop\różne projekty dla Ewci\Gra_memory\obj\Debug\Gra_memory.pdb
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\bin\Debug\Gra_memory.exe.config
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\bin\Debug\Gra_memory.exe
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\bin\Debug\Gra_memory.pdb
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.csproj.AssemblyReference.cache
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.Form1.resources
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.Properties.Resources.resources
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.csproj.GenerateResource.cache
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.csproj.CoreCompileInputs.cache
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.exe
+C:\Users\sober\OneDrive\Pulpit\Gra_memory\obj\Debug\Gra_memory.pdb
